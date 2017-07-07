@@ -17,7 +17,7 @@ I used to be a graphic designer way back when. I'm still really proud to be a so
 
 <a href=./src/pdf/Shaheen-Ghiassys-Portfolio.pdf>
     Shaheen-Ghiassys-Portfolio.pdf (22.5 MB)]
-    <img src=Shaheen-Ghiassys-Portfolio-Thumbnail.jpg />
+    <img src=./src/images/Shaheen-Ghiassys-Portfolio-Thumbnail.jpg />
 </a>
 
 
