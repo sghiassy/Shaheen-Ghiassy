@@ -5,11 +5,9 @@ Hi, welcome to my website. I like `git` and the `CLI`, thus the use of this repo
 
 ## Resume
 
-[LinkedIn](https://www.linkedin.com/in/shaheenghiassy) functions as my digitial resume. 
+[LinkedIn](https://www.linkedin.com/in/shaheenghiassy) functions as my digitial resume. Alternatively you can download my resume: [Shaheen-Ghiassys-Resume.pdf](./src/pdf/Shaheen-Ghiassys-Resume.pdf)
 
-Or you can download the PDF format of my resume: [Shaheen-Ghiassys-Resume.pdf](./src/pdf/Shaheen-Ghiassys-Resume.pdf)
-
-![](./src/images/Shaheen-Ghiassys-Resume-Thumbnail.png)
+<a href=./src/pdf/Shaheen-Ghiassys-Resume.pdf ><img src=./src/images/Shaheen-Ghiassys-Resume-Thumbnail.png /></a>
 
 ## Design Portfolio
 
@@ -17,7 +15,7 @@ I used to be a graphic designer way back when. I'm still really proud to be a so
 
 [Shaheen-Ghiassys-Portfolio.pdf (22.5 MB)](./src/pdf/Shaheen-Ghiassys-Portfolio.pdf)
 
-![](./src/images/Shaheen-Ghiassys-Portfolio-Thumbnail.jpg)
+<a href=./src/pdf/Shaheen-Ghiassys-Resume.pdf ><img src=./src/images/Shaheen-Ghiassys-Portfolio-Thumbnail.jpg /></a>
 
 ## Links
 
