@@ -1,5 +1,3 @@
-# Shaheen Ghiassy's Homepage
-
 ## Resume
 
 [Shaheen-Ghiassys-Resume.pdf](/src/pdf/Shaheen-Ghiassys-Resume.pdf)
