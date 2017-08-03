@@ -7,6 +7,7 @@
 ## Design Portfolio
 
 Proud to be a Software Engineer that also has a full design portfolio.
+
 [Shaheen-Ghiassys-Portfolio.pdf (22.5MB - PDF)](/src/pdf/Shaheen-Ghiassys-Portfolio.pdf)
 
 ## Links
