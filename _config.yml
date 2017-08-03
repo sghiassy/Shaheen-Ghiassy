@@ -1,0 +1,27 @@
+---
+title: shaheenghiassy.github.Io
+timezone: America/San_Francisco
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/blog/:title"
+name: Writing
+description: Shaheen Ghiassy's homepage
+google_verification:
+include:
+- ".htaccess"
+exclude:
+- README.md
+- LICENSE
+sass:
+  style: compressed
+  sass_dir: _sass
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
