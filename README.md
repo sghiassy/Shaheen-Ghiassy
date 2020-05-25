@@ -14,3 +14,5 @@ Proud to be a Software Engineer that also has a full design portfolio.
 - [Twitter](https://twitter.com/shaheenghiassy)
 - [Medium](https://medium.com/@shaheenghiassy)
 - [Pinterest](https://www.pinterest.com/sghiassy/)
+- [GitHub](https://github.com/sghiassy/)
+- [StackOverflow](https://stackoverflow.com/users/1179897/shaheen-ghiassy)
