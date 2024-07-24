@@ -1,3 +1,5 @@
+![](./src/images/shaheen-ghiassy-image.png)
+
 ## Resume
 
 [Shaheen-Ghiassys-Resume.pdf](/src/pdf/Shaheen-Ghiassys-Resume.pdf)
