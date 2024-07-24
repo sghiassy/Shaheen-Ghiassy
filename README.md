@@ -1,4 +1,5 @@
-![](./src/images/shaheen-ghiassy-image.png)
+
+<img src="./src/images/shaheen-ghiassy-image.png" height=175 />
 
 ## Resume
 
